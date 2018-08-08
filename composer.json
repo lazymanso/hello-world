@@ -1,14 +1,14 @@
 {
-    "name": "lazymanso/hello-world",
-    "description": "for testing",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "lazyman",
-            "email": "zzs@zhongfx.net"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+	"name": "lazymanso/hello-world",
+	"description": "just for testing",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "lazyman",
+			"email": "zzs@zhongfx.net"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {}
 }
